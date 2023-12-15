@@ -7,7 +7,7 @@ class User {
   }
 }
 class PostList {
-  constructor(posts) {
+  constructor() {
     this.posts = [];
   }
   addPost(post) {
